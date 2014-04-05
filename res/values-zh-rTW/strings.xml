@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_add">增加願望</string>
+    <string name="main_title2">願望清單</string>
+    <string name="add_submit">送出</string>
+    <string name ="add_prompt_input_somthing">請輸入願望及價格</string>
+	<string name ="add_write_down_your_wishes">寫下你的願望</string>
+	<string name ="add_wish">願望</string>
+	<string name ="add_price">價格</string>
+</resources>

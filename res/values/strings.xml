@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Loop</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_add">Add Wish</string>
+    <string name="main_title2">Wish List</string>
+    <string name="subTitle">title 2</string>
+    <string name="add_submit">Submit</string>
+    <string name="add_prompt_input_somthing">please input both wish and price</string>
+    <string name="add_write_down_your_wishes">Write down your wishes</string>
+    <string name="add_wish">Wish</string>
+    <string name="add_price">Price</string>
+    <string name="title_activity_main_view">MainViewActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
